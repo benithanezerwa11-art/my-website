@@ -1,0 +1,98 @@
+nohup: ignoring input
+154.68.65.174 - - [29/Sep/2026 19:32:01] "GET /assets/app.js HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:32:01] "GET /assets/style.css HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:32:06] "GET /profile.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:32:08] "GET /notes.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:41:30] "GET / HTTP/1.1" 200 -
+154.68.65.174 - - [29/Sep/2026 19:41:31] "GET /assets/style.css HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:41:31] "GET /assets/app.js HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:41:43] "GET /index.html HTTP/1.1" 200 -
+154.68.72.135 - - [29/Sep/2026 19:41:46] "GET /profile.html HTTP/1.1" 304 -
+154.68.72.135 - - [29/Sep/2026 19:41:52] "GET /notes.html HTTP/1.1" 304 -
+74.176.227.124 - - [29/Sep/2026 19:49:28] "GET /profile.html HTTP/1.1" 200 -
+74.176.227.124 - - [29/Sep/2026 19:49:28] "GET / HTTP/1.1" 200 -
+74.176.227.124 - - [29/Sep/2026 19:49:29] "GET /notes.html HTTP/1.1" 200 -
+52.167.144.181 - - [29/Sep/2026 19:49:31] "GET /notes.html HTTP/1.1" 200 -
+40.77.167.25 - - [29/Sep/2026 19:49:35] "GET /profile.html HTTP/1.1" 200 -
+40.77.167.25 - - [29/Sep/2026 19:49:36] "GET / HTTP/1.1" 200 -
+154.68.65.174 - - [29/Sep/2026 19:59:23] "GET /profile.html HTTP/1.1" 200 -
+154.68.65.174 - - [29/Sep/2026 19:59:25] "GET /assets/app.js HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:59:25] "GET /assets/style.css HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:59:45] "GET /index.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:59:56] "GET /profile.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 19:59:59] "GET /notes.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:00:07] "GET /profile.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:00:29] "GET /profile.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:06:09] "GET /profile.html HTTP/1.1" 200 -
+154.68.65.174 - - [29/Sep/2026 20:06:09] "GET /assets/app.js HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:06:09] "GET /assets/style.css HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:06:18] "GET /index.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:06:29] "GET /profile.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:06:55] "GET /profile.html HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:10:23] "GET /profile.html HTTP/1.1" 200 -
+154.68.65.174 - - [29/Sep/2026 20:16:50] "GET /notes.html HTTP/1.1" 200 -
+154.68.65.174 - - [29/Sep/2026 20:17:02] "GET /assets/app.js HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:17:02] "GET /assets/style.css HTTP/1.1" 304 -
+154.68.65.174 - - [29/Sep/2026 20:18:04] "GET /index.html HTTP/1.1" 304 -
+195.96.139.82 - - [30/Sep/2026 01:26:07] "GET / HTTP/1.1" 200 -
+47.250.54.157 - - [30/Sep/2026 06:35:17] code 400, message Bad request version ('À\\x13À')
+47.250.54.157 - - [30/Sep/2026 06:35:17] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À" 400 -
+47.250.54.157 - - [30/Sep/2026 06:35:27] "GET / HTTP/1.1" 200 -
+47.250.54.157 - - [30/Sep/2026 06:35:28] "GET / HTTP/1.1" 200 -
+123.160.223.73 - - [30/Sep/2026 06:35:42] "GET / HTTP/1.1" 200 -
+47.77.223.127 - - [30/Sep/2026 06:35:43] "GET / HTTP/1.1" 200 -
+47.77.223.127 - - [30/Sep/2026 06:35:44] "GET /assets/app.js HTTP/1.1" 200 -
+123.160.223.75 - - [30/Sep/2026 06:35:56] code 404, message File not found
+123.160.223.75 - - [30/Sep/2026 06:35:56] "GET /favicon.ico HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('91.191.209.118', 58975)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1304, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 668, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 433, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 401, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+207.90.244.27 - - [30/Sep/2026 10:30:52] "GET / HTTP/1.1" 200 -
+207.90.244.27 - - [30/Sep/2026 10:30:53] code 404, message File not found
+207.90.244.27 - - [30/Sep/2026 10:30:53] "GET /favicon.ico HTTP/1.1" 404 -
+154.68.65.174 - - [30/Sep/2026 11:54:46] "GET /notes.html HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 11:54:48] "GET /assets/style.css HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 11:54:48] "GET /assets/app.js HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 11:54:49] code 404, message File not found
+154.68.65.174 - - [30/Sep/2026 11:54:49] "GET /favicon.ico HTTP/1.1" 404 -
+154.68.65.174 - - [30/Sep/2026 11:54:53] "GET /profile.html HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 12:45:06] "GET /?utm_source=chatgpt.com HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 12:45:13] "GET /assets/app.js HTTP/1.1" 304 -
+154.68.65.174 - - [30/Sep/2026 12:45:13] "GET /assets/style.css HTTP/1.1" 304 -
+154.68.65.174 - - [30/Sep/2026 12:45:31] "GET /index.html HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 12:45:31] "GET /profile.html HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 12:45:35] "GET /notes.html HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 12:45:39] "GET /profile.html HTTP/1.1" 200 -
+85.217.149.17 - - [30/Sep/2026 17:11:10] code 400, message Bad request version ('ø\\x92º')
+85.217.149.17 - - [30/Sep/2026 17:11:10] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x1f¿\x8d\x8bjßva\x91\x03»«[\x7fR\x07\x07x ø\x92º" 400 -
+85.217.149.15 - - [30/Sep/2026 18:14:44] code 400, message Bad request version ('À\\x14À')
+85.217.149.15 - - [30/Sep/2026 18:14:44] "\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03~ë\x1e§\x0b²\x9dk\x02q\x14\x0b?Ó\x03où\x1a\x9eùí'ÁûÎK¢Å.\x7f¨· K&\x1aÇ\x9fJ\x8bðA\x8dÏ\x14\x16ÈÜ\x9eàt\x7fCd\x84Iô-7d\x8a\x19ôÇc\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À" 400 -
+85.217.149.19 - - [30/Sep/2026 19:23:12] code 400, message Bad request syntax ('00000000')
+85.217.149.19 - - [30/Sep/2026 19:23:12] "00000000" 400 -
+154.68.65.174 - - [30/Sep/2026 20:03:38] "GET /?utm_source=chatgpt.com HTTP/1.1" 304 -
+154.68.65.174 - - [30/Sep/2026 20:03:39] "GET /assets/style.css HTTP/1.1" 200 -
+154.68.65.174 - - [30/Sep/2026 20:03:39] "GET /assets/app.js HTTP/1.1" 304 -
+154.68.65.174 - - [30/Sep/2026 20:03:41] code 404, message File not found
+154.68.65.174 - - [30/Sep/2026 20:03:41] "GET /favicon.ico HTTP/1.1" 404 -
+154.68.65.174 - - [30/Sep/2026 20:03:47] "GET /profile.html HTTP/1.1" 304 -
+154.68.65.174 - - [30/Sep/2026 20:03:52] "GET /notes.html HTTP/1.1" 304 -
+154.68.65.174 - - [30/Sep/2026 20:04:00] "GET /index.html HTTP/1.1" 200 -
+64.226.86.7 - - [30/Sep/2026 20:18:10] "GET / HTTP/1.1" 200 -
+64.226.86.7 - - [30/Sep/2026 20:18:11] code 404, message File not found
+64.226.86.7 - - [30/Sep/2026 20:18:11] "GET /favicon.ico HTTP/1.1" 404 -
