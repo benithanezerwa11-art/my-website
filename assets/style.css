@@ -1,1 +1,165 @@
+/* General page style */
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f8f5;
+    color: #333;
+    line-height: 1.6;
+}
 
+/* Header */
+header {
+    background: linear-gradient(135deg, #176b45, #2e8b57);
+    color: white;
+    text-align: center;
+    padding: 35px 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 40px;
+}
+
+header p {
+    font-size: 18px;
+}
+
+/* Navigation */
+nav {
+    margin-top: 25px;
+}
+
+nav a {
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+    padding: 10px 18px;
+    border-radius: 25px;
+    background: rgba(255, 255, 255, 0.15);
+}
+
+nav a:hover {
+    background: white;
+    color: #176b45;
+}
+
+/* Main content */
+main {
+    max-width: 1100px;
+    margin: auto;
+    padding: 30px 20px;
+}
+
+section {
+    background: white;
+    margin-bottom: 30px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+section h2 {
+    color: #176b45;
+}
+
+/* Hero section */
+.hero {
+    text-align: center;
+    padding: 70px 30px;
+    background: linear-gradient(
+        rgba(23, 107, 69, 0.85),
+        rgba(46, 139, 87, 0.85)
+    );
+    color: white;
+}
+
+.hero h2 {
+    color: white;
+    font-size: 36px;
+}
+
+.hero p {
+    font-size: 20px;
+    max-width: 700px;
+    margin: 15px auto 25px;
+}
+
+/* Buttons */
+.button {
+    display: inline-block;
+    background: #f4b942;
+    color: #222;
+    text-decoration: none;
+    padding: 12px 25px;
+    border-radius: 25px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background: #ffd166;
+}
+
+/* Information cards */
+.cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    background: transparent;
+    box-shadow: none;
+    padding: 0;
+}
+
+.cards article {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.cards h3 {
+    color: #176b45;
+    font-size: 22px;
+}
+
+/* Rwanda section */
+.rwanda {
+    border-left: 6px solid #2e8b57;
+}
+
+/* Call to action */
+.call-to-action {
+    text-align: center;
+    background: #e8f5ed;
+}
+
+/* Footer */
+footer {
+    background: #176b45;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin-top: 30px;
+}
+
+/* Mobile phones */
+@media (max-width: 700px) {
+
+    header h1 {
+        font-size: 30px;
+    }
+
+    .cards {
+        grid-template-columns: 1fr;
+    }
+
+    .hero h2 {
+        font-size: 28px;
+    }
+
+    nav a {
+        display: block;
+        margin: 8px auto;
+        max-width: 180px;
+    }
+}
